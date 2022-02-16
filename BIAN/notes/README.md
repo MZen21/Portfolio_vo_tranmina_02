@@ -1,1 +1,1 @@
-Ce dossier contien les notes
+Ce dossier contient les notes
