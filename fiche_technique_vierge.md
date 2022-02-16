@@ -12,7 +12,7 @@
 
  **Description :** (de l'oeuvre ou du dispositif multimédia à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
  
- *Source :*
+ *Source : Panneau descriptif de l'oeuvre*
 
  **La mise en espace :** (de l'oeuvre ou du dispositif : (texte à composer))
 
@@ -35,4 +35,4 @@
 
  💛 (Ce qui m'a plu, m'a donné des idées avec justifications :)
  
- 🤔 Je ferais autrement... (Aspect que je ne souhaiterais pas retenir pour mes propres créations ou que je ferais autrement avec justifications)
+ 🤔 J'aurais fait en sorte que ça soit une pièce complètement fermer pour avoir une meilleure immersion.
