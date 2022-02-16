@@ -33,6 +33,6 @@
 
  **Mon expérience :** ( de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.)
 
- 💛 (Ce qui m'a plu, m'a donné des idées avec justifications :)
+ 💛 J'ai vraiment aimé l'atmosphère de l'installation. Je l'ai trouvé original et elle ce démarquait des autres oeuvres.
  
- 🤔 J'aurais fait en sorte que ça soit une pièce complètement fermer pour avoir une meilleure immersion.
+ 🤔 Si j'avais à le faire autrement, j'aurais fait en sorte que ça soit une pièce complètement fermer pour avoir une meilleure immersion.
