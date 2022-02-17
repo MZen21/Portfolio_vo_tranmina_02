@@ -8,7 +8,7 @@
 
 ## I.C.U Intensive Care Unit
 
- ![complet](photographies/bian_icu_complet.jpg | width=100)
+ ![complet](photographies/bian_icu_complet.jpg)
 
  **Réalisé par :** Bill Vorn en 2021
 
