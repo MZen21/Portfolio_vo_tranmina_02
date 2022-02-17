@@ -4,7 +4,7 @@
  
  **Visité le :** 9 Février 2022
  
- ![selfie](photographies/bian_icu_selfie.jpg | width=100)
+ ![selfie](photographies/bian_icu_selfie.jpg)
  
  ---
 
@@ -17,6 +17,8 @@
  **Description :** (de l'oeuvre ou du dispositif multimédia à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
 
  **La mise en espace :** (de l'oeuvre ou du dispositif : (texte à composer))
+ 
+  ![complet](croquis/bian_icu_croquis.png)
 
  **Composantes et techniques de l'oeuvre ou du dispositif :** 
  - ex.réalité virtuelle
@@ -35,7 +37,7 @@
 
  **Mon expérience :** ( de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.)
 
- 💛 (Ce qui m'a plu, m'a donné des idées avec justifications :)
+ 💛 J'ai beaucoup aimé le fait que les squelettes soient suspendus par le plafond et non sur une table. Je trouve que c'est original et que ça rend le tout moins encombrant. De plus, ça permet de mettre de l'emphase sur le sujet qui est le squelette.
  
- 🤔 Je ferais autrement... (Aspect que je ne souhaiterais pas retenir pour mes propres créations ou que je ferais autrement avec justifications)
+ 🤔 Si j'avais à le faire autrement, j'aurais fait en sorte que la pièce soit complètement fermée pour avoir une meilleure immersion.
 
