@@ -8,6 +8,8 @@
 
 ## I.C.U Intensive Care Unit
 
+ ![complet](photographies/bian_icu_complet.jpg | width=100)
+
  **Réalisé par :** Bill Vorn en 2021
 
  **Description :** (de l'oeuvre ou du dispositif multimédia à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
