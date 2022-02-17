@@ -4,6 +4,8 @@
  
  **Visité le :** 9 Février 2022
  
+ ![selfie](photographies/bian_icu_selfie.jpg)
+ 
  ---
 
 ## I.C.U Intensive Care Unit
