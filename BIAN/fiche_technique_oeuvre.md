@@ -33,8 +33,9 @@
  - Ordinateur
  - Masque à oxygène
  - Projecteur
-
-![complet](photographies/bian_icu_composant_tete.jpg)
+ 
+![complet](photographies/bian_icu_composant_complet.jpg)
+![complet](photographies/bian_icu_composant_tete.png)
 
  **Éléments nécessaires pour la mise en exposition :**
  - Crochets
