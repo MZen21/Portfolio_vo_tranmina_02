@@ -18,11 +18,11 @@
  
  *Source : Le panneau descriptif de l'oeuvre.*
  
-  ![complet](photographies/bian_icu_panneau_descriptif.jpg)
+  ![panneau](photographies/bian_icu_panneau_descriptif.jpg)
 
  **La mise en espace :** L'installation se retrouve dans un grand espace sombre séparer des autres oeuvres grace à de grands rideaux noirs. La salle a comme source de lumière 6 projecteurs qui change de couleur occasionnellement. Il y a 4 robots suspendus horizontalement et sont placés au 4 coins de la pièce. Il y a un projecteur accroché au plafond à chaque coin de la pièce et deux au centre.
  
-  ![complet](croquis/bian_icu_croquis.png)
+  ![croquis](croquis/bian_icu_croquis.png)
 
  **Composantes et techniques de l'oeuvre ou du dispositif :** 
  - Anneau rectangulaire lumineux
@@ -35,7 +35,10 @@
  - Projecteur
  
 ![complet](photographies/bian_icu_composant_complet.jpg)
-![complet](photographies/bian_icu_composant_tete.png)
+![tete](photographies/bian_icu_composant_tete.PNG)
+![ordi](photographies/bian_icu_composant_ordinateur.jpg)
+![projecteur](photographies/bian_icu_composant_projecteur.jpg)
+![vital](photographies/bian_icu_composant_vital.jpg)
 
  **Éléments nécessaires pour la mise en exposition :**
  - Crochets
@@ -43,7 +46,7 @@
  - Prises électriques
  - Poutre métallique 
 
-![complet](photographies/bian_icu_element_poutre.jpg)
+![poutre](photographies/bian_icu_element_poutre.jpg)
 
 ---
 
