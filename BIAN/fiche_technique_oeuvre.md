@@ -34,11 +34,15 @@
  - Masque à oxygène
  - Projecteur
 
+![complet](photographies/bian_icu_composant_tete.jpg)
+
  **Éléments nécessaires pour la mise en exposition :**
  - Crochets
  - Câbles de soutien
  - Prises électriques
  - Poutre métallique 
+
+![complet](photographies/bian_icu_element_poutre.jpg)
 
 ---
 
