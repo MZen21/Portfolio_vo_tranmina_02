@@ -47,12 +47,13 @@
  - Poutre métallique 
 
 ![poutre](photographies/bian_icu_element_poutre.jpg)
+![crochet](photographies/bian_icu_element_crochet.jpg)
 
 ---
 
  ## Expérience vécue
 
- **Mon expérience :** ( de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.)
+ **Mon expérience :** ( de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.) 
 
  💛 J'ai beaucoup aimé le fait que les squelettes soient suspendus par le plafond et non sur une table. Je trouve que c'est original et que ça rend le tout moins encombrant. De plus, ça permet de mettre de l'emphase sur le sujet qui est le squelette.
  
