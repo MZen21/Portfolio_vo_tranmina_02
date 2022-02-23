@@ -53,7 +53,7 @@
 
  ## Expérience vécue
 
- **Mon expérience :** ( de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.) 
+ **Mon expérience :** Dès que l'on rentre dans la pièce, on voit des squelettes en mouvement flotter dans les airs ainsi que des projecteurs qui changent la couleur de la pièce. Donc, ma première impression fut que ça ressemblait à une scène de science-fiction. De plus, avec les bruitages de battement de coeur ainsi que des machines en mouvement, le tout rendait l'installation encore plus intéressante, car ça a rajouté de l'immersion à mon expérience.
 
  💛 J'ai beaucoup aimé le fait que les squelettes soient suspendus par le plafond et non sur une table. Je trouve que c'est original et que ça rend le tout moins encombrant. De plus, ça permet de mettre de l'emphase sur le sujet qui est le squelette.
  
